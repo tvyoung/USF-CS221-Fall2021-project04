@@ -1,0 +1,4 @@
+Vicki Young - Project 4
+
+the program works as required. compiles/runs and the output matches the correct format. also included comments.
+
